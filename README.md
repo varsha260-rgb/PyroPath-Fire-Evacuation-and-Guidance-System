@@ -62,31 +62,21 @@ The project aims to provide early fire detection, real-time monitoring, visual a
 
 ## 🏛 System Architecture Diagram
 
-![Architecture Diagram](flow_diagram.jpeg)
-
----
+![Architecture](Block%20diagram.jpeg)
 
 ## 📊 Flow Diagram
 
-![Flow Diagram](Design/flow_diagram.png)
-
----
+![Flow Diagram](flow%20diagram.jpeg)
 
 ## 🔌 Circuit / Schematic Design
 
-![Schematic Design](Design/schematic_design.png)
+![Schematic 1](schematic%201.jpeg)
 
----
+![Schematic 2](schematic%202.jpeg)
 
 ## 📸 Dashboard Screenshot
 
-![Dashboard](Server.jpeg)
-
----
-
-## 🔧 Hardware Setup
-
-![Hardware Setup](Screenshots/hardware_setup.jpg)
+![Dashboard](server.jpeg)
 
 ---
 
