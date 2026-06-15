@@ -62,7 +62,7 @@ The project aims to provide early fire detection, real-time monitoring, visual a
 
 ## 🏛 System Architecture Diagram
 
-![Architecture Diagram](flow diagram.jpeg)
+![Architecture Diagram](flow_diagram.jpeg)
 
 ---
 
@@ -80,7 +80,7 @@ The project aims to provide early fire detection, real-time monitoring, visual a
 
 ## 📸 Dashboard Screenshot
 
-![Dashboard](Screenshots/dashboard.png)
+![Dashboard](Server.jpeg)
 
 ---
 
