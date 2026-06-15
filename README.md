@@ -92,8 +92,8 @@ The project aims to provide early fire detection, real-time monitoring, visual a
 
 ## 🎥 Demo Video
 
-Add your YouTube or Google Drive link here.
-
+1) prototype: https://drive.google.com/file/d/1YTMxytghquElMXWCm6mjuZVQ2KR56uXr/view?usp=drivesdk
+2) Server: https://drive.google.com/file/d/1ZAqyT2rs2YH7wPrGLQYqEx9LLnLddAkG/view?usp=drivesdk
 ---
 
 ## 👥 Team Members
